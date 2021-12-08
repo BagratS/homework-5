@@ -1,3 +1,17 @@
-#img-prv {
-    width: 150px;
-}
+#faq-box {
+    width: 300px;
+    border: 1px solid;
+    border-radius: 10px;
+  }
+  .not-extended {
+    height: 50px;
+  }
+  
+  .no-answer {
+    display: none;
+  }
+  
+  .extended {
+    height: 150px;
+  }
+  
