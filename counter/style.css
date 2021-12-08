@@ -1,0 +1,36 @@
+.topic {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+}
+.buttons {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.boxes {
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 6px;
+    font-family: 'Roboto', sans-serif;
+    border-width: 2px;
+    border-color: black;
+}
+
+.boxes:hover {
+    border-color: blue;
+}
+
+.count {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}

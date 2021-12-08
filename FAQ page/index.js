@@ -1,0 +1,1 @@
+const gago = 12;
